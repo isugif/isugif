@@ -1,6 +1,10 @@
-  <h1 align="center">Andrew Severin</h1>
+  <h1 align="center">Problem Solving Through Playful Discovery </h1>
 
-Manager: Bioinformatics Facility at [Iowa State University](https://www.biotech.iastate.edu/bioinformatics/)
+Much of this repo contains small tools I built to improve my overall efficiency while managing a bioinformatics facility and some hang overs from when my special interest was learning swift and building small apps on my phone during covid. 
+
+* [ISUGenomics](https://github.com/isugenomics): Mostly private repositories for hundreds of bioinformatics projects.
+* [ISUGIFsingularity](https://github.com/isugifsingularity): When singularity was popular but before workflows became popular. 
+* [ISUGIFNF](https://github.com/isugifnf): Nextflow pipelines for bioinformatics workflows.
 
 
 
